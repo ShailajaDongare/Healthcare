@@ -1,6 +1,6 @@
 # A simple Healthcare application.
 
-Basic Healthcare App is an android application which uses SQLite to store user accounts data. This app provides feature to simply find doctor.
+Basic Healthcare App is an android application which uses SQLite to store user accounts data. This app provides health related information and services.
 
 See more features below.
 
